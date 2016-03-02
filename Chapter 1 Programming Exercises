@@ -91,4 +91,31 @@ public class Chapter1 {
 /* Chapter1.8 */
 /* Write a program that displays the area and perimeter of a circle that has a radius of 5.5 */
 
-syso
+public class Chapter1 {
+
+	public static void main(String[] args) {
+		System.out.println("Perimeter = " + 2 * 5.5 * 3.1415);
+		System.out.println("Area = " + 5.5 * 5.5 * 3.1415);
+	}
+
+}
+
+
+/* Chapter1.9 */
+/* Write a program that displays the area dn perimeter of a rectangle, W=4.5, H=7.9 */
+
+public class Chapter1 {
+
+	public static void main(String[] args) {
+		System.out.println("A = " + (4.5 * 7.9));
+		System.out.println("P = " + (2 * 4.5 + 2 * 7.9));
+	}
+
+}
+
+/* Chapter1.10 */
+/* Write a program that displays the average speed in miles per hour */
+
+
+
+
